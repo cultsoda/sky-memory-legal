@@ -1,3 +1,13 @@
+---
+layout: default
+---
+
+<style>
+  header, footer, .view { display: none !important; }
+  section { max-width: 800px; margin: 0 auto; padding: 20px; float: none; }
+  .wrapper { width: auto; max-width: 800px; margin: 0 auto; }
+</style>
+
 # Privacy Policy
 
 **Last Updated: February 22, 2026**  
