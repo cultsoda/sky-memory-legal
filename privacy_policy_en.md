@@ -35,7 +35,7 @@ The App collects the minimum amount of personal information necessary to provide
 | :--- | :--- | :--- |
 | **Required** | **Email address**, **Birth year** | Account identification, password reset, generation-based ranking, and customized services |
 | **Optional** | **Location info (GPS)** | Recording the city name when creating a post |
-| **Automatic** | Service use records, access logs, cookies, device info, ad identifiers | Service improvement, prevention of unauthorized use, statistical analysis |
+| **Automatic** | Service use records, access logs, cookies, device info, ad identifiers | Service improvement, prevention of unauthorized use, statistical analysis, and service optimization (using Firebase Analytics) |
 
 ### 3. Processing and Retention Period of Personal Information
 1. The App processes and retains personal information within the period specified by law or the period consented to by the user at the time of collection.
@@ -47,7 +47,7 @@ The App entrusts or provides personal information as follows for smooth service 
 
 | Recipient / Trustee | Category | Purpose | Items Provided | Retention Period |
 | :--- | :--- | :--- | :--- | :--- |
-| **Google Cloud (Firebase)** | Provision / Consignment | Cloud infrastructure (Auth, DB, Storage, Push notifications) | Email, birth year, location, photo data | Until account deletion or service termination |
+| **Google Cloud (Firebase)** | Provision / Consignment | Cloud infrastructure (Auth, DB, Storage, Push notifications, **App analysis**) | Email, birth year, location, photo data, **ADID/IDFA, service use records** | Until account deletion or service termination |
 
 ### 5. Rights and Obligations of Users and Their Exercise Methods
 As a data subject, users can exercise their rights such as viewing, correcting, deleting, and requesting suspension of personal information processing at any time. Rights can be exercised through the App settings or via email, and the App will take action without delay.

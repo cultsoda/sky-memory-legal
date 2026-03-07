@@ -40,10 +40,15 @@ Users must not engage in the following activities:
 3. **Interference:** Interfering with the normal operation of the service or overloading the system.
 4. **Legal Violations:** Any activities that violate public order, morals, or relevant laws.
 
-### Article 4 (Copyright and Content Management)
-1. **User Ownership:** Copyright for all content (photos, text, etc.) posted by users belongs to **the user themselves**.
-2. **Service Use:** The App may use public content within the necessary range for operation, promotion, and improvement. **Private posts** will not be used without explicit consent.
-3. **Deletion Authority:** The App may remove or restrict the exposure of content that violates Article 3 without prior notice.
+### Article 4 (User-Generated Content (UGC) and Management Policy)
+1. **Definition:** Content such as photos, text, and comments posted by users in the service is called User-Generated Content (UGC).
+2. **Copyright:** The copyright for UGC belongs to **the user themselves**.
+3. **Prohibition of Inappropriate Content:** Users must not post inappropriate content as specified in Article 3 (pornography, hate speech, copyright infringement, etc.).
+4. **Reporting and Blocking System:** The App provides the following measures to ensure a healthy community environment:
+   - **Reporting:** If you find inappropriate content or comments, you can report it immediately using the 'Report' feature next to the content.
+   - **Blocking:** If you do not want to communicate with a specific user, you can use the 'Block' feature to prevent that user's content from being visible to you.
+5. **Action on Inappropriate Content:** The App operator reviews reported content, and if a violation of the terms or policies is confirmed, the content will be removed and the user's access restricted **within 24 hours**.
+6. **Service Use:** The App may use public content within the necessary range for operation, promotion, and improvement. **Private posts** will not be used without explicit consent.
 
 ### Article 5 (Suspension of Service and Account Deletion)
 1. **Account Deletion:** Users can delete their account at any time via [Settings > Delete Account] in the App.
